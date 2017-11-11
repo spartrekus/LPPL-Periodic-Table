@@ -1,0 +1,8 @@
+
+!tex
+!packages
+\usepackage[margin=0.5cm]{geometry}
+!begin
+!clr
+!fig periodic.pdf
+
